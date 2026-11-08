@@ -73,7 +73,7 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
 ## **📌 Course Modules & Resources**
 
 <details> 
-<summary> <h2> 📕Course Grammar and Punctuation </h2> </summary>
+<summary> <h2> 📕Useful Tools and Websites </h2> </summary>
 
 ### 🔹Week 0-**Chapter 1:Introduction**
 | Topic Name/Tutorial | Video | 💻 Colab Implementation |
@@ -85,7 +85,7 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
 </details>
 
 <details> 
-<summary> <h2>📕Course 02 The Role of Body Paragraphs in Essay Writing </h2> </summary>
+<summary> <h2>📕Course 02 Institutional and Policy Resources </h2> </summary>
   
  ### Week 1-[**📚Chapter1:Autocorrect and Mininum Edit Distance**]()
 
@@ -99,7 +99,30 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
 
 
  <details> 
-<summary> <h2>📕Course 04 -Important Prompt</h2> </summary>
+<summary> <h2>📕Course 04 -Prompt Library for Professors</h2> </summary>
+  
+ ### Week 1-[**📚Chapter1:Autocorrect and Mininum Edit Distance**]()
+
+ | Topic Name/Tutorial | Video | Extra Resources  |
+ |---|---|---|
+ |[**🌐1-100 PROMPTS I Used in 1 Year, Saved 10+ Hours and Made Quick Decisions!**](https://github.com/dr-mushtaq/Virtual-University-of-Pakistan/blob/main/100%20PROMPTS%20I%20Used%20in%201%20Year%2C%20Saved%2010%2B%20Hours%20and%20Made%20Quick%20Decisions!.md)| [**1**](https://www.youtube.com/watch?v=2rM7FPnY0ls&t=165s)|---|
+
+ </details>
+
+ <details> 
+<summary> <h2>📕Course 04 -Student Communication and Support</h2> </summary>
+  
+ ### Week 1-[**📚Chapter1:Autocorrect and Mininum Edit Distance**]()
+
+ | Topic Name/Tutorial | Video | Extra Resources  |
+ |---|---|---|
+ |[**🌐1-100 PROMPTS I Used in 1 Year, Saved 10+ Hours and Made Quick Decisions!**](https://github.com/dr-mushtaq/Virtual-University-of-Pakistan/blob/main/100%20PROMPTS%20I%20Used%20in%201%20Year%2C%20Saved%2010%2B%20Hours%20and%20Made%20Quick%20Decisions!.md)| [**1**](https://www.youtube.com/watch?v=2rM7FPnY0ls&t=165s)|---|
+
+ </details>
+
+ 
+ <details> 
+<summary> <h2>📕Course 04 -Teaching and Course Design</h2> </summary>
   
  ### Week 1-[**📚Chapter1:Autocorrect and Mininum Edit Distance**]()
 
