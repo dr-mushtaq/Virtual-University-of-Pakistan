@@ -105,20 +105,7 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
 
  | Topic Name/Tutorial | Video | Extra Resources  |
  |---|---|---|
- |[**🌐1-Practical Guide to Writing Research Papers**](https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/Practical%20Guide%20to%20Writing%20Research%20Papers%20for%20MS%20and%20PhD%20Students.md)| [**1**](https://www.youtube.com/watch?v=2rM7FPnY0ls&t=165s)|---|
- |[**🌐2-How to Write the Title, Abstract, and Introduction**](https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/How%20to%20Write%20the%20Title%2C%20Abstract%2C%20and%20Introduction%20of%20a%20Research%20Paper.md)| [**1**](https://www.youtube.com/watch?v=2rM7FPnY0ls&t=165s)|---|
- |[**🌐2-How to Write the Literature Review**](https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/Literature%20review.md)| [**1**](https://youtu.be/i9rs7_gRRL8?si=ShG1jT8P1U1SlPS3)|---|
- |[**🌐3-Understanding Research Gaps**](https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/Research%20Gap.md)| [**1**](https://www.youtube.com/watch?v=-_BoZdMhUGE)|---|
- |[**🌐4-Research Methodology and Guidelines**](https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/METHODS.md#How-to-write-Methodology)| [**1**](https://www.youtube.com/watch?v=k2WWExuRVXs&list=PLLC7bmONapvBV5iICH8y1RPvT54dFk6wB&index=12)|---|
- |[**🌐5-Results and Discussion**](https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/Results%20and%20Discussion.md)| [**1**](https://www.youtube.com/watch?v=HjjgjxBRsY8&list=PLLC7bmONapvBV5iICH8y1RPvT54dFk6wB&index=11)|---|
- |[**🌐6-How to Write a Strong Conclusion for a Research Paper**](https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/Conclusion.md)| [**1**](https://www.youtube.com/watch?v=bkWQwjdbcEM&list=PLLC7bmONapvBV5iICH8y1RPvT54dFk6wB&index=12)|---|
- |[**🌐7-Seven Essential Steps to Refining Your Manuscript**](https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/How%20to%20Revise%20Your%20Manuscript.md)| [**1**](https://www.youtube.com/watch?v=VjrtWln99ss&list=PLLC7bmONapvBV5iICH8y1RPvT54dFk6wB&index=17)|---|
- |[**🌐8-How to Strengthen Your Manuscript with Updated References**](https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/How%20to%20Revise%20Your%20Manuscript.md)| [**1**](https://www.youtube.com/watch?v=3ZxdgcynkTA&list=PLLC7bmONapvBV5iICH8y1RPvT54dFk6wB&index=22)|---|
- |**🌐8-How to read research Paper**| [**1**](https://www.youtube.com/watch?v=hRYuXmr2APo&list=PLLC7bmONapvBV5iICH8y1RPvT54dFk6wB&index=21)|---|
- |[🌐9-How to Find the Right Journal for Your Research Paper Using ChatGPT](https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/How%20to%20Find%20the%20Right%20Journal%20for%20Your%20Research%20Paper%20Using%20ChatGP.md)| [**1**](https://youtu.be/aFaZzm7EnFI?si=mQkPFaFhLgKbi98V)|---|
- |🌐10-Research Significance vs Contribution EXPLAINED| [**1**](https://youtu.be/62dxJFeZ1RI?si=olkFaNUDizNtq2Oe)|---|
- |[**🌐11-How to Respond to Journal Reviewer Comments**](https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/How%20to%20Respond%20to%20Journal%20Reviewer%20Comments.md )| [**1**](https://youtu.be/LPWnJs512yM?si=9avMxtUSUy9fHzKU)|---|
- |[**🌐12-How to write Problem statments**](https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/Writing%20Problem%20Statements.md)| --|---|
+ |[**🌐1-100 PROMPTS I Used in 1 Year, Saved 10+ Hours and Made Quick Decisions!**](https://github.com/dr-mushtaq/Virtual-University-of-Pakistan/blob/main/100%20PROMPTS%20I%20Used%20in%201%20Year%2C%20Saved%2010%2B%20Hours%20and%20Made%20Quick%20Decisions!.md)| [**1**](https://www.youtube.com/watch?v=2rM7FPnY0ls&t=165s)|---|
 
  </details>
 
