@@ -99,7 +99,7 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
 
 
  <details> 
-<summary> <h2>📕Course 04 -Writing Research Paper</h2> </summary>
+<summary> <h2>📕Course 04 -Important Prompt</h2> </summary>
   
  ### Week 1-[**📚Chapter1:Autocorrect and Mininum Edit Distance**]()
 
