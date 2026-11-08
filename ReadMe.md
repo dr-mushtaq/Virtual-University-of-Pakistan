@@ -1,10 +1,10 @@
-## **Welcome to Collaborative of Academic writing👋🛒**
+## **Professor's Teaching, Research, and Academic Workbench👋🛒**
 <a href="https://app.commanddash.io/agent?github=https://github.com/hussain0048/Natural-language-processing"><img src="https://github.com/dr-mushtaq/Academic-writing/blob/main/DALL%C2%B7E%202025-03-27%2022.01.24%20-%20A%20professional%20workspace%20with%20an%20open%20book%2C%20a%20laptop%20displaying%20an%20academic%20research%20paper%2C%20and%20a%20notepad%20with%20a%20pen.%20A%20cup%20of%20coffee%20sits%20beside%20the%20.webp"></a>
 </p>
 
-This repository provides an academic overview, detailing its purpose, structure, and key components. It serves as a centralized resource for [specific domain], offering datasets, code implementations, and scholarly references. The repository aims to support researchers, educators, and students by facilitating knowledge dissemination, reproducibility, and collaboration.
+A practical, editable collection of software, trustworthy starting points, and reusable AI prompts for university teaching and research. Adapt it to your discipline, Virtual University of Pakistan (VU) workflows, and current university policies.
 
- Also please subscribe to my [youtube channel!](https://www.youtube.com/playlist?list=PLLC7bmONapvBV5iICH8y1RPvT54dFk6wB)
+> **Important:** Verify tools, prices, access, and institutional approval before adopting them. Use official VU systems and approved channels for course delivery, assessment, and student records. Never upload confidential student data, unpublished research, examination questions, credentials, or personal information to an AI service unless your institution explicitly permits it.
 
   # If you found this helpful, Please Start it to help other discover these tutorials ⭐
 
