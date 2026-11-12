@@ -76,12 +76,10 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
 <summary> <h2> 📕Useful Tools and Websites </h2> </summary>
 
 ### 🔹Week 0-**Chapter 1:Introduction**
-| Topic Name/Tutorial | Video | 💻 Colab Implementation |
+| Topic Name/Tutorial | Description | Extra Resrouces |
 |---|---|---|
-|[**✅1-Introduction⭐️**](https://mushtaqmsit.substack.com/p/introduction-to-academic-writing)|[1](https://www.youtube.com/watch?v=MyTLosz6aHA)|---|
-| [**✅2- Natural Language Processing Tasks and Applications⭐️**](https://mushtaqmsit.substack.com/p/natural-language-processing-for-beginners) | [1](https://www.youtube.com/watch?v=j86dP_05_o0)| Content 3 |
-| [**✅3- Best Free Resources to Learn NLP-Tutorial⭐️**](https://mushtaqmsit.substack.com/p/top-free-nlp-learning-resources-your) | Content 5 | Content 6 |
- 
+|[**✅1-Google Gemini: 10 Things You Didn't Know You Could Do in Google Workspace!⭐️**](https://learneasyai.substack.com/p/google-gemini-10-things-you-didnt?utm_source=share&utm_medium=android&r=f2squ)|----|---|
+
 </details>
 
 <details> 
