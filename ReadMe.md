@@ -79,7 +79,7 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
 | Topic Name/Tutorial | Description | Extra Resrouces |
 |---|---|---|
 |[**✅1-Google Gemini: 10 Things You Didn't Know You Could Do in Google Workspace!⭐️**](https://learneasyai.substack.com/p/google-gemini-10-things-you-didnt?utm_source=share&utm_medium=android&r=f2squ)|----|---|
-
+|[**✅1-o whom it may concern, the link to get student emails, for CS519/CS619/CSi619 courses⭐️**](https://script.google.com/a/macros/vu.edu.pk/s/AKfycbxgy8NxuST8Dx2-C2D0_3VdbywpGjIIw8JNvTi2c1hwPOl8mx4-EXpJF8NsQ2qPKXdh4w/exec)|----|---|
 </details>
 
 <details> 
