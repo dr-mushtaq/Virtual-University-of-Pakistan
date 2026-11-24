@@ -104,7 +104,7 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
  | Topic Name/Tutorial | Video | Extra Resources  |
  |---|---|---|
  |[**1-100 PROMPTS I Used in 1 Year, Saved 10+ Hours and Made Quick Decisions!**](https://github.com/dr-mushtaq/Virtual-University-of-Pakistan/blob/main/100%20PROMPTS%20I%20Used%20in%201%20Year%2C%20Saved%2010%2B%20Hours%20and%20Made%20Quick%20Decisions!.md)| [**1**](https://www.youtube.com/watch?v=2rM7FPnY0ls&t=165s)|---|
-|[**2-Academic Prompt Library Sheet**]([https://github.com/dr-mushtaq/Virtual-University-of-Pakistan/blob/main/100%20PROMPTS%20I%20Used%20in%201%20Year%2C%20Saved%2010%2B%20Hours%20and%20Made%20Quick%20Decisions!.md](https://docs.google.com/spreadsheets/d/1MovePslVvebQ3AqpitFwExAq3Q1x6gO9rRxqHfTJYNM/edit?usp=sharing))|---|---|
+|[**2-Academic Prompt Library Sheet**](https://docs.google.com/spreadsheets/d/1MovePslVvebQ3AqpitFwExAq3Q1x6gO9rRxqHfTJYNM/edit?usp=sharing)|---|---|
 
  </details>
 
