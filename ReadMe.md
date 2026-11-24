@@ -125,9 +125,10 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
   
  ### Week 1-[**📚Notbook LLM**]()
 
- | Topic Name/Tutorial | Video | Extra Resources  |
+ | Topic Name/Tutorial | Description | Extra Resources  |
  |---|---|---|
- |[**🌐1-I Built 10 NotebookLM Tutors From MIT (Beat 99% of Students)**]([https://github.com/dr-mushtaq/Virtual-University-of-Pakistan/blob/main/100%20PROMPTS%20I%20Used%20in%201%20Year%2C%20Saved%2010%2B%20Hours%20and%20Made%20Quick%20Decisions!.md](https://www.learnwithmeai.com/p/notebooklm-tutors-mit?utm_source=share&utm_medium=android&r=f2squ&triedRedirect=true))|----|---|
+ |[**✅1-I Built 10 NotebookLM Tutors From MIT (Beat 99% of Students)**](https://www.learnwithmeai.com/p/notebooklm-tutors-mit?utm_source=share&utm_medium=android&r=f2squ&triedRedirect=true)|Statistics, calculus, finance and 7 more MIT courses, turned into NotebookLM tutors that quiz you and grade every answer.
+|---|
  
 
  </details>
